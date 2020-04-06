@@ -1,0 +1,11 @@
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\bin\Debug\netcoreapp2.1\UsersRegistration.deps.json
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\bin\Debug\netcoreapp2.1\UsersRegistration.runtimeconfig.json
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\bin\Debug\netcoreapp2.1\UsersRegistration.runtimeconfig.dev.json
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\bin\Debug\netcoreapp2.1\UsersRegistration.dll
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\bin\Debug\netcoreapp2.1\UsersRegistration.pdb
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.csprojAssemblyReference.cache
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.csproj.CoreCompileInputs.cache
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.AssemblyInfoInputs.cache
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.AssemblyInfo.cs
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.dll
+C:\Users\The Daddy\source\repos\UsersRegistration\UsersRegistration\obj\Debug\netcoreapp2.1\UsersRegistration.pdb
